@@ -1,0 +1,6 @@
+{
+  "name": "Node.js Getting Started",
+  "description": "Generali Clients database",
+  "repository":"https://github.com/Mildza/heroku-generali.git",
+  "keywords": ["Generali", "Client Database"]
+}

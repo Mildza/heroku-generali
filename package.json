@@ -1,0 +1,24 @@
+{
+  "name": "gnerali",
+  "version": "1.0.0",
+  "description": "Client Datbase",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "^4.15.3",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "engines": {
+    "node":"6.9.5"
+  },
+  "author": "Mildza",
+  "license": "ISC"
+}
